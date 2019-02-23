@@ -1,0 +1,9 @@
+{"response":"i am great",
+        "charts":{"name":self.chartname,"type":self.charttype,"list":self.chartlist},
+        "watch":self.ytd,
+        "audiosrc":self.audiosrc,
+        "albumart":self.albumart,
+        "name":self.title,
+        "download":self.downloadable,
+        "view":self.view
+        }
